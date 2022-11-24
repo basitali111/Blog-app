@@ -63,7 +63,7 @@ rails server
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/basit-ali-jobs/)
 - Twitter: [Twitter](https://twitter.com/BasitAl35031734)
 
-👤 **Pamphile mkp**
+👤 **Pamphile Mkp**
 
 - GitHub: [@githubhandle](https://github.com/pamphilemkp)
 - Twitter:[@pamphilemkp](https://Twitter.com/PamphileMusonda)
