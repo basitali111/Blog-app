@@ -1,35 +1,31 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
 
-T# Blog App <img width="50px" src="https://user-images.githubusercontent.com/79658534/196410494-f2f02ce6-60d4-41fd-9eee-d3cd512cd41a.png">
-
+# 📖 [BLOG App] <a name="about-project"></a>
 
 > This is going to be a fully functional blog application that will show the list of posts and empower readers to interact with them by adding comments and liking posts.
 
-### Steps of creating the application:
 
+## 🛠 Built With <a name="built-with"></a>
 
-- 1: Creating a data model.
-- 2: Validations and Model specs.
-- 3: Processing data in models.
-- 4: Setup and controllers.
-- 5: Controllers specs.
-- 6: Views.
-- 7: Forms.
-- 8: Integration specs for Views and fixing n+1 problems.
-- 9: Add Devise.
-- 10: Add authorization rules.
-- 11: Add API endpoints.
-
-## Built With
+### Tech Stack <a name="tech-stack"></a>
 
 - Ruby
 - Rails
 - Rubocop
+- Postgresql
 
-## ERD diagram
-![blog_app_erd](https://user-images.githubusercontent.com/79658534/196410864-c9e7bf4f-1bc1-4aa2-8d46-764b4447bfe9.png)
+### Key Features <a name="key-features"></a>
 
-## Getting Started
+- **[Create_a_user]**
+- **[User_Add_Comment_in_post]**
+- **[User_like_posts]**
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+> Add a link to your deployed project.
+
+- [Live Demo Link](https://yourdeployedapplicationlink.com)
+
+## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running follow these simple example steps.
 
@@ -57,6 +53,8 @@ rubocop -A
 rails server
 ```
 
+## 👥 Authors <a name="authors"></a>
+
 👤 **Basit Ali**
 
 - GitHub: [@githubhandle](https://github.com/basitali111)
@@ -69,20 +67,18 @@ rails server
 - Twitter:[@pamphilemkp](https://Twitter.com/PamphileMusonda)
 - LinkedIn:[@pamphilemkp](https://www.linkedin.com/in/pamphile-musonda)
 
-## 🤝 Contributing
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-Contributions, issues, and feature requests are welcome!
+## 🔭 Future Features <a name="future-features"></a>
 
-Feel free to check the [issues page](../../issues/).
+> 
 
-## Show your support
+- [ ] **[Login]**
+- [ ] **[Authorization]**
+- [ ] **[Add_API_Endpoints]**
 
-Give a ⭐️ if you like this project!
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Acknowledgments
-
-- [Microverse](https://www.microverse.org/)
-- <a href="https://www.flaticon.com/free-icons/copywriting" title="copywriting icons">Copywriting icons created by Talha Dogar - Flaticon</a>
 
 ## Useful links
 
@@ -92,6 +88,40 @@ Give a ⭐️ if you like this project!
 - [RubyGems](https://rubygems.org/)
 - [Bundler](https://bundler.io/)
 
-## 📝 License
+## 🤝 Contributing <a name="contributing"></a>
 
-This project is [MIT](./MIT.md) licensed.
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## ⭐️ Show your support <a name="support"></a>
+
+Give a ⭐️ if you like this project!
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## ❓ FAQ <a name="faq"></a>
+
+> Add at least 2 questions new developers would ask when they decide to use your project.
+
+- **[What you want to make?]**
+
+  - [This is a Blog app where user can login and add post and remove the post]
+
+- **[How you can use it?]**
+
+  - [You can use it by cloning it]
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
