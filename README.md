@@ -104,7 +104,6 @@ Give a ⭐️ if you like this project!
 
 ## ❓ FAQ <a name="faq"></a>
 
-> Add at least 2 questions new developers would ask when they decide to use your project.
 
 - **[What you want to make?]**
 
